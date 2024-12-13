@@ -22,7 +22,7 @@ export function Hero() {
           <h3>Data Analyst</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Titulaire d’une licence en Business Intelligence et d’un master en Big Data de l'IHEC Carthage </p>
+          <p className="small-resume">Titulaire d’une licence en Business Intelligence et d’un master en Big Data de l'IHEC  </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.8 * 1000}>
           <BrowserRouter>
